@@ -3,6 +3,9 @@
 <!--
 **chang2000/chang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+-->
+
 - 🔭 CUHK CS undergraduate
 - 💻 Working on Graph Neural Networks and software development.
 - 📫 How to reach me: tianchang.wang.00@gmail.com
@@ -10,9 +13,6 @@
 - ⚡ Fun fact: Rubik's Cube Pro (sub 13s)
 
 **Moments of chaos are moments of opportunities.**
--->
-
-
 
 
 <a href="#">

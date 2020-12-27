@@ -10,7 +10,7 @@
 - 💻 Working on Graph Neural Networks and software development.
 - 📫 How to reach me: tianchang.wang.00@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Rubik's Cube Pro (sub 13s)
+- ⚡ Fun fact: Speedcuber
 
 **Moments of chaos are moments of opportunities.**
 

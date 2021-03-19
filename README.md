@@ -8,7 +8,7 @@
 
 Currently Working on:
 - Subgraph Matching Framework with Neural Network
-- Distributed Programing (Raft)
+- Distributed Programming (Raft)
 - CUDA Programming
 - Web-based Podcase Client
 

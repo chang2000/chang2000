@@ -6,6 +6,13 @@
 
 -->
 
+Currently Working on:
+- Subgraph Matching Framework with Neural Network
+- Distributed Programing (Raft)
+- CUDA Programming
+- Web-based Podcase Client
+
+About Me:
 - 🔭 CUHK CS undergraduate
 - 💻 Working on Graph Neural Networks and software development.
 - 📫 How to reach me: tianchang.wang.00@gmail.com

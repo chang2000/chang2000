@@ -10,7 +10,7 @@ Currently Working on:
 - Subgraph Matching Framework with Neural Network
 - Distributed Programming (Raft)
 - CUDA Programming
-- Web-based Podcase Client
+- Web-based Podcast Service
 
 About Me:
 - 🔭 CUHK CS undergraduate

@@ -1,2 +1,5 @@
 # I Changed My Account Name
-**ACTIVE ON** https://github.com/tcalexwang
+
+If you're directed here via an URL, please see https://github.com/tcalexwang.
+
+
